@@ -1,2 +1,2 @@
 # publications
-all free books from publisher
+이 곳에서는 도서출판 손에서 제작한 무료책이 배포됩니다. 많은 이용 바랍니다.
